@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Testing SButton > Mounting 1`] = `
+<button
+  class="s-button s-button--primary s-button--md"
+  data-v-aa378b68=""
+>
+  <!--v-if-->
+  <!-- пустой класс нужен для управления loading -->
+  <span
+    class="s-button__content"
+    data-v-aa378b68=""
+  >
+    
+    Привет
+    
+  </span>
+  <!--v-if-->
+</button>
+`;

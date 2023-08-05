@@ -1,0 +1,13 @@
+{
+  "msg": {
+    "welcome": "welcome"
+  },
+  "phone": {
+    "buttonText": "GetCode"
+  },
+  "auth": {
+    "saveUser": "Save user",
+    "title": "Enter phone number",
+    "subscription": "You'll use your phone number to sign in to your account"
+  }
+}

@@ -1,3 +1,1 @@
-import FGetPhoneCode from '@/features/FGetPhoneCode/ui'
-
-export { FGetPhoneCode }
+import { default as FGetPhoneCode } from '@/features/FGetPhoneCode/ui/FGetPhoneCode.vue'

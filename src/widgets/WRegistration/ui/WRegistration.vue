@@ -9,6 +9,6 @@
 </template>
 
 <script lang="ts" setup>
-import { ERegistration } from 'entities'
-import { FGetPhoneCode } from 'features'
+import { ERegistration } from 'entities/ERegistration'
+import { FGetPhoneCode } from 'features/FGetPhoneCode'
 </script>

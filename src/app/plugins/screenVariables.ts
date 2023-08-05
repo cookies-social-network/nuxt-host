@@ -1,4 +1,4 @@
-import { Screen, UseScreenReturnType, _NuxtApp } from '@/app/composables/types/useScreenTypes'
+import { _NuxtApp, UseScreenReturnType, Screen } from '@/app/types'
 
 const BREAKPOINTS = {
   md: 768,

@@ -1,3 +1,1 @@
-import ERegistration from 'entities/ERegistration/ui/ERegistration.vue'
-
-export default ERegistration
+export { default as ERegistration } from 'entities/ERegistration/ui/ERegistration.vue'
